@@ -1,0 +1,36 @@
+
+body { 
+	background-color: #393939;
+ } 
+
+h1 {
+	color: #FF5A09; 
+	font-family: Georgia, Helvetica, "Sans-Serif"; 
+	text-align: center;
+}
+
+p, ul, a:link  {
+	color: #DDDAD6;
+	font-family: "Century Gothic", "Gill Sans", "Sans-serif"; 
+	font-size: 100%;
+	text-decoration: none;  
+}
+
+a.click {
+	color: orange;
+	font-size: 100%;
+}
+
+a:visited {
+	color: red; 
+}
+
+a:hover {
+	color: #FF5A09;
+}
+
+a:active {
+	color: blue;
+}
+
+
